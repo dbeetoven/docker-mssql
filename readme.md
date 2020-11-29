@@ -24,4 +24,8 @@ nd then exit...
 
 -```node index.js ```
 
-🥳 enjoy 👍🏼
+
+🥳 Enjoy 👍🏼
+
+### ================================
+*[@Author](https://github.com/dbeetoven)*
